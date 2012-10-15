@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medya ses efektleri</string>
+    <string name="pref_wired_stereo_device_title">Kablolu stereo cihazlar</string>
+    <string name="pref_stereo_speaker_title">Telefon Hoparlörleri</string>
+    <string name="pref_mono_speaker_title">Telefonun Hoparlörü</string>
+    <string name="pref_device_connected">Bağlandı</string>
+    <string name="pref_effect_enable_title">Ses efektlerini etkinleştir</string>
+    <string name="pref_effect_category">Efekt ayarları</string>
+    <string name="pref_headset_effect_title">Efekt profili</string>
+    <string name="pref_speaker_effect_title">Efekt profili</string>
+    <string name="pref_mono_effect_title">Efekt profili</string>
+    <string name="pref_effect_dialog_title">Efekt profilleri</string>
+    <string name="pref_surround_title">Surround</string>
+    <string name="pref_surround_dialog_title">Surround</string>
+    <string name="pref_equalizer_title">Ekolayzer</string>
+    <string name="pref_equalizer_dialog_title">Ekolayzer</string>
+    <string name="pref_effect_custom_item">Özel</string>
+</resources>

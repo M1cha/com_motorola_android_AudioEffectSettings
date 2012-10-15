@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_device_list">
+        <item>Stereokuuloke</item>
+        <item>Stereokaiutin</item>
+        <item>Monokuuloke tai -kaiutin</item>
+    </string-array>
+    <array name="pref_headset_effect_entries">
+        <item>3D-stereo</item>
+        <item>Kotiteatteri</item>
+        <item>Live-lava</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_headset_effect_sumarries">
+        <item>Stereoäänen laajennus surround-tilaääneksi</item>
+        <item>Luo useista kaiuttimista muodostuvan kotiteatterijärjestelmän kaltaisen äänen</item>
+        <item>Luo musiikin lavaesityksen kaltaisen äänen</item>
+        <item>Säädä surround- ja taajuuskorjainasetuksia erikseen</item>
+    </string-array>
+    <array name="pref_speaker_effect_entries">
+        <item>3D-stereo</item>
+        <item>Kotiteatteri</item>
+        <item>Live-lava</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_speaker_effect_sumarries">
+        <item>Stereoäänen laajennus surround-tilaääneksi</item>
+        <item>Luo useista kaiuttimista muodostuvan kotiteatterijärjestelmän kaltaisen äänen</item>
+        <item>Luo musiikin lavaesityksen kaltaisen äänen</item>
+        <item>Säädä surround- ja taajuuskorjainasetuksia erikseen</item>
+    </string-array>
+    <string-array name="pref_headset_surround_entries">
+        <item>Live</item>
+        <item>Laaja</item>
+        <item>Ambient</item>
+        <item>Ei käytössä</item>
+    </string-array>
+    <string-array name="pref_speaker_surround_entries">
+        <item>Live</item>
+        <item>Laaja</item>
+        <item>Ambient</item>
+        <item>Ei käytössä</item>
+    </string-array>
+    <string-array name="pref_headset_equalizer_entries">
+        <item>Voimakas basso</item>
+        <item>Bassotehoste</item>
+        <item>Tasapainotettu</item>
+        <item>Kirkas diskantti</item>
+        <item>Vocalizer</item>
+        <item>Ei käytössä</item>
+    </string-array>
+    <string-array name="pref_speaker_equalizer_entries">
+        <item>Voimakas basso</item>
+        <item>Bassotehoste</item>
+        <item>Tasapainotettu</item>
+        <item>Kirkas diskantti</item>
+        <item>Vocalizer</item>
+        <item>Ei käytössä</item>
+    </string-array>
+    <string-array name="pref_mono_equalizer_entries">
+        <item>Voimakas basso</item>
+        <item>Bassotehoste</item>
+        <item>Tasapainotettu</item>
+        <item>Kirkas diskantti</item>
+        <item>Vocalizer</item>
+        <item>Ei käytössä</item>
+    </string-array>
+</resources>

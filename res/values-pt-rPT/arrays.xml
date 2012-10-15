@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_device_list">
+        <item>Auricular estéreo</item>
+        <item>Altifalante estéreo</item>
+        <item>Auricular ou altifalante mono</item>
+    </string-array>
+    <array name="pref_headset_effect_entries">
+        <item>Estéreo 3D</item>
+        <item>Home cinema</item>
+        <item>Palco ao vivo</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_headset_effect_sumarries">
+        <item>Expansão de estéreo para som surround</item>
+        <item>Recria o efeito de sistema home cinema com vários altifalantes</item>
+        <item>Recria o ambiente de palco numa sala de espectáculos</item>
+        <item>Ajustar individualmente as definições de Surround e Equalizador</item>
+    </string-array>
+    <array name="pref_speaker_effect_entries">
+        <item>Estéreo 3D</item>
+        <item>Home cinema</item>
+        <item>Palco ao vivo</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_speaker_effect_sumarries">
+        <item>Expansão de estéreo para som surround</item>
+        <item>Recria o efeito de sistema home cinema com vários altifalantes</item>
+        <item>Recria o ambiente de palco numa sala de espectáculos</item>
+        <item>Ajustar individualmente as definições de Surround e Equalizador</item>
+    </string-array>
+    <string-array name="pref_headset_surround_entries">
+        <item>Ao vivo</item>
+        <item>Alargada</item>
+        <item>Ambiente</item>
+        <item>Desactivar</item>
+    </string-array>
+    <string-array name="pref_headset_surround_summarries">
+        <item>Recria o ambiente de playback numa sala maior</item>
+        <item>Alarga a imagem estéreo</item>
+        <item>"Recria uma experiência áudio 'totalmente externa', coloca o som para o exterior"</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_speaker_surround_entries">
+        <item>Ao vivo</item>
+        <item>Alargada</item>
+        <item>Ambiente</item>
+        <item>Desactivar</item>
+    </string-array>
+    <string-array name="pref_speaker_surround_summarries">
+        <item>Recria o ambiente de playback numa sala maior</item>
+        <item>Alarga a imagem estéreo</item>
+        <item>"Recria uma experiência áudio 'totalmente externa', coloca o som para o exterior"</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_headset_equalizer_entries">
+        <item>Baixo extremo</item>
+        <item>Maximizar baixo</item>
+        <item>Equilibrado</item>
+        <item>Agudos perfeitos</item>
+        <item>Vocalizador</item>
+        <item>Desactivar</item>
+    </string-array>
+    <string-array name="pref_headset_equalizer_summaries">
+        <item>Impulso máximo de baixo</item>
+        <item>Baixo preciso, amplificação com um controlo preciso de baixo</item>
+        <item>Realça os instrumentos no meio da banda</item>
+        <item>Impulsiona os agudos</item>
+        <item>Realça a voz e o discurso</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_speaker_equalizer_entries">
+        <item>Baixo extremo</item>
+        <item>Maximizar baixo</item>
+        <item>Equilibrado</item>
+        <item>Agudos perfeitos</item>
+        <item>Vocalizador</item>
+        <item>Desactivar</item>
+    </string-array>
+    <string-array name="pref_speaker_equalizer_summaries">
+        <item>Impulso máximo de baixo</item>
+        <item>Baixo preciso, amplificação com um controlo preciso de baixo</item>
+        <item>Realça os instrumentos no meio da banda</item>
+        <item>Impulsiona os agudos</item>
+        <item>Realça a voz e o discurso</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_mono_equalizer_entries">
+        <item>Baixo extremo</item>
+        <item>Maximizar baixo</item>
+        <item>Equilibrado</item>
+        <item>Agudos perfeitos</item>
+        <item>Vocalizador</item>
+        <item>Desactivar</item>
+    </string-array>
+    <string-array name="pref_mono_equalizer_summaries">
+        <item>Impulso máximo de baixo</item>
+        <item>Baixo preciso, amplificação com um controlo preciso de baixo</item>
+        <item>Realça os instrumentos no meio da banda</item>
+        <item>Impulsiona os agudos</item>
+        <item>Realça a voz e o discurso</item>
+        <item></item>
+    </string-array>
+</resources>

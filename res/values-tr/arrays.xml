@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_device_list">
+        <item>Stereo kulaklık</item>
+        <item>Stereo hoparlör</item>
+        <item>Mono kulaklık veya hoparlör</item>
+    </string-array>
+    <array name="pref_headset_effect_entries">
+        <item>3B Stereo</item>
+        <item>Ev Ses Sistemi</item>
+        <item>Canlı Sahne</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_headset_effect_sumarries">
+        <item>Stereo sesi surround sese genişletir</item>
+        <item>Çok hoparlörlü ev müzik sistemi efekti yaratır</item>
+        <item>Müzik kulübündeki sahne atmosferini yaratır</item>
+        <item>Surround ve Ekolayzer ayarlarını ayrı ayrı yap</item>
+    </string-array>
+    <array name="pref_speaker_effect_entries">
+        <item>3B Stereo</item>
+        <item>Ev Ses Sistemi</item>
+        <item>Canlı Sahne</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_speaker_effect_sumarries">
+        <item>Stereo sesi surround sese genişletir</item>
+        <item>Çok hoparlörlü ev müzik sistemi efekti yaratır</item>
+        <item>Müzik kulübündeki sahne atmosferini yaratır</item>
+        <item>Surround ve Ekolayzer ayarlarını ayrı ayrı yap</item>
+    </string-array>
+    <string-array name="pref_headset_surround_entries">
+        <item>Canlı</item>
+        <item>Geniş</item>
+        <item>Ortam</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="pref_speaker_surround_entries">
+        <item>Canlı</item>
+        <item>Geniş</item>
+        <item>Ortam</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="pref_headset_equalizer_entries">
+        <item>Extreme Bas</item>
+        <item>Bass punch</item>
+        <item>Dengeli</item>
+        <item>Parlak Tiz</item>
+        <item>Vokal</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="pref_speaker_equalizer_entries">
+        <item>Extreme Bas</item>
+        <item>Bass punch</item>
+        <item>Dengeli</item>
+        <item>Parlak Tiz</item>
+        <item>Vokal</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="pref_mono_equalizer_entries">
+        <item>Extreme Bas</item>
+        <item>Bass punch</item>
+        <item>Dengeli</item>
+        <item>Parlak Tiz</item>
+        <item>Vokal</item>
+        <item>Kapalı</item>
+    </string-array>
+</resources>

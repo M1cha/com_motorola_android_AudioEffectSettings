@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_device_list">
+        <item>Stereohörlurar</item>
+        <item>Stereohögtalare</item>
+        <item>Monohörlurar eller -högtalare</item>
+    </string-array>
+    <array name="pref_headset_effect_entries">
+        <item>3D-stereo</item>
+        <item>Hemmabio</item>
+        <item>Livekonsert</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_headset_effect_sumarries">
+        <item>Utvidgning av stereo till surroundljud</item>
+        <item>Återskapar effekten av hemmabiosystem med flera högtalare</item>
+        <item>Återskapar liveatmosfären på en musikklubb</item>
+        <item>Gör egna inställningar för surround och equalizer</item>
+    </string-array>
+    <array name="pref_speaker_effect_entries">
+        <item>3D-stereo</item>
+        <item>Hemmabio</item>
+        <item>Livekonsert</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_speaker_effect_sumarries">
+        <item>Utvidgning av stereo till surroundljud</item>
+        <item>Återskapar effekten av hemmabiosystem med flera högtalare</item>
+        <item>Återskapar liveatmosfären på en musikklubb</item>
+        <item>Gör egna inställningar för surround och equalizer</item>
+    </string-array>
+    <string-array name="pref_headset_surround_entries">
+        <item>Live</item>
+        <item>Bred</item>
+        <item>Omgivande</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="pref_speaker_surround_entries">
+        <item>Live</item>
+        <item>Bred</item>
+        <item>Omgivande</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="pref_headset_equalizer_entries">
+        <item>Extrem bas</item>
+        <item>Basslag</item>
+        <item>Balanserad</item>
+        <item>Briljant diskant</item>
+        <item>Vocalizer</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="pref_speaker_equalizer_entries">
+        <item>Extrem bas</item>
+        <item>Basslag</item>
+        <item>Balanserad</item>
+        <item>Briljant diskant</item>
+        <item>Vocalizer</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="pref_mono_equalizer_entries">
+        <item>Extrem bas</item>
+        <item>Basslag</item>
+        <item>Balanserad</item>
+        <item>Briljant diskant</item>
+        <item>Vocalizer</item>
+        <item>Av</item>
+    </string-array>
+</resources>
